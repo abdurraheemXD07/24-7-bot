@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "XDSMP.play.hosting",
-    "port": 58339,
-    "version": "1.20.1",
+    "port": 28350,
+    "version": "1.20.10",
     "try-creative": false
   },
   "position": {
